@@ -1,5 +1,3 @@
-![Web Developer](https://scontent.fird1-1.fna.fbcdn.net/v/t39.30808-6/300823571_1313609229176051_2107301455655735517_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFLRa-ACVoc4N7MMCNa_McpRlUd4yMAYXxGVR3jIwBhfEGE2QexRuXynMJoW7EIDoxMu7KjXIdJHd4KNvdKWWgv&_nc_ohc=H9Px128frGwQ7kNvgG8UxYk&_nc_zt=23&_nc_ht=scontent.fird1-1.fna&_nc_gid=ACw7fCoOECWvdkNkQxJKLhK&oh=00_AYA8ENzyvR2SI-GKLlk8lM5nOO-Feb4U0npeCfxiLz2F9Q&oe=679C32B6)
-
 ### Hi there 👋, My name is Shezan
 #### i am starting my Programming practice.
 
